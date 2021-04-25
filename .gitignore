@@ -1,11 +1,7 @@
 /.idea
 
-###
 docker-compose.yml
 
-###
-
-app/bin/.phpunit
 app/vendor
 
 app/.phpunit
